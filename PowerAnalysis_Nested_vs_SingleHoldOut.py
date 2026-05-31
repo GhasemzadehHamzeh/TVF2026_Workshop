@@ -1,3 +1,19 @@
+# Machine Learning Pitfalls in Voice Research – Workshop Code
+
+# Author: Hamzeh Ghasemzadeh, PhD
+# Affiliation: Communication Sciences and Disorders, University of Central Florida
+# Lab: Voice and Speech Bioinformatics (VSI) Lab
+# Email: hamzeh.ghasemzadeh@ucf.edu
+
+# Description:
+# This code was developed for a workshop presented at the Voice Foundation Symposium (TVF).
+# It is part of a series of examples demonstrating common pitfalls in machine learning,
+# their impact on results, and recommended practices to avoid them.
+
+# Version: 1.0
+# Year: 2026
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split, StratifiedKFold
